@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\Asus\Desktop\5.2.2\UnitTest1\UnitTest1.cpp(21,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     Создается библиотека C:\Users\Asus\Desktop\5.2.2\PKR - 5.2B\Debug\UnitTest1.lib и объект C:\Users\Asus\Desktop\5.2.2\PKR - 5.2B\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Asus\Desktop\5.2.2\PKR - 5.2B\Debug\UnitTest1.dll
